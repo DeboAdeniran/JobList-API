@@ -1,5 +1,12 @@
 {
+  "name": "joblist-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "vercel-build": "echo 'No build step required'"
+  },
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "ejs": "^3.1.9"
   }
 }

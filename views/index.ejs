@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Job Listings</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f8f9fa;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #ffffff;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+      }
+      .job {
+        border-bottom: 1px solid #ddd;
+        padding: 15px 0;
+      }
+      .job:last-child {
+        border-bottom: none;
+      }
+      .job h2 {
+        margin: 0;
+        font-size: 20px;
+      }
+      .job p {
+        margin: 5px 0;
+        color: #555;
+      }
+      .job span {
+        display: inline-block;
+        margin-right: 10px;
+        color: #007bff;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Available Job Listings</h1>
+      <% if (jobs && jobs.length > 0) { %> <% jobs.forEach((job) => { %>
+      <div class="job">
+        <h2><%= job.position %> at <%= job.company %></h2>
+        <p>
+          <span>Location:</span> <%= job.location %> <br />
+          <span>Type:</span> <%= job.description %> <br />
+          <span>Salary:</span> <%= job.salary %>
+        </p>
+      </div>
+      <% }); %> <% } else { %>
+      <p>No jobs available at the moment.</p>
+      <% } %>
+    </div>
+  </body>
+</html>
