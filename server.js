@@ -1,6 +1,9 @@
 var express = require("express");
+var cors = require("cors"); 
 var app = express();
 var fs = require("fs");
+
+app.use(cors());
 
 // Endpoint to Get a list of jobs
 app.get("/getJobs", function (req, res) {
