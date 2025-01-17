@@ -9,7 +9,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": true,
         "flexible_schedule": false,
@@ -32,7 +32,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": true,
@@ -55,7 +55,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -78,7 +78,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
@@ -101,7 +101,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -124,7 +124,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": true,
@@ -147,7 +147,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -170,7 +170,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": true,
@@ -193,7 +193,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
@@ -216,7 +216,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -239,7 +239,7 @@
       "description": {
         "part_time": true,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -262,7 +262,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": true,
@@ -285,7 +285,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -317,7 +317,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$80/hr",
       "location": "Austin, TX"
@@ -340,7 +340,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$30/hr",
       "location": "Cupertino, CA"
@@ -363,7 +363,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$25/hr",
       "location": "Los Angeles, CA"
@@ -386,7 +386,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$70/hr",
       "location": "Chicago, IL"
@@ -409,7 +409,7 @@
         "shift_method": false,
         "senior_level": true,
         "middle_level": false,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$180/hr",
       "location": "Seattle, WA"
@@ -432,7 +432,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$40/hr",
       "location": "Boston, MA"
@@ -455,7 +455,7 @@
         "shift_method": false,
         "senior_level": true,
         "middle_level": false,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$120/hr",
       "location": "San Jose, CA"
@@ -478,7 +478,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$60/hr",
       "location": "Remote"
@@ -501,7 +501,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$20/hr",
       "location": "Dallas, TX"
@@ -524,7 +524,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$25/hr",
       "location": "Atlanta, GA"
@@ -547,7 +547,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$35/hr",
       "location": "Remote"
@@ -570,7 +570,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$55/hr",
       "location": "Denver, CO"
@@ -593,7 +593,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$90/hr",
       "location": "Washington, DC"
@@ -616,7 +616,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$18/hr",
       "location": "Houston, TX"
@@ -639,7 +639,7 @@
         "shift_method": false,
         "senior_level": true,
         "middle_level": false,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$100/hr",
       "location": "Portland, OR"
@@ -662,7 +662,7 @@
         "shift_method": false,
         "senior_level": true,
         "middle_level": false,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$190/hr",
       "location": "Phoenix, AZ"
@@ -685,7 +685,7 @@
         "shift_method": false,
         "senior_level": true,
         "middle_level": false,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$150/hr",
       "location": "San Francisco, CA"
@@ -708,7 +708,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$50/hr",
       "location": "New York, NY"
@@ -731,7 +731,7 @@
         "shift_method": true,
         "senior_level": true,
         "middle_level": false,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$200/hr",
       "location": "Mountain View, CA"
@@ -754,7 +754,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$80/hr",
       "location": "Austin, TX"
@@ -777,7 +777,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$30/hr",
       "location": "Cupertino, CA"
@@ -800,7 +800,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$25/hr",
       "location": "Los Angeles, CA"
@@ -823,7 +823,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$70/hr",
       "location": "Chicago, IL"
@@ -846,7 +846,7 @@
         "shift_method": false,
         "senior_level": true,
         "middle_level": false,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$180/hr",
       "location": "Seattle, WA"
@@ -869,7 +869,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$40/hr",
       "location": "Boston, MA"
@@ -892,7 +892,7 @@
         "shift_method": false,
         "senior_level": true,
         "middle_level": false,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$120/hr",
       "location": "San Jose, CA"
@@ -915,7 +915,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$60/hr",
       "location": "Remote"
@@ -938,7 +938,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$20/hr",
       "location": "Dallas, TX"
@@ -961,7 +961,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$25/hr",
       "location": "Atlanta, GA"
@@ -1260,7 +1260,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$70/hr",
       "location": "Chicago, IL"
@@ -1283,7 +1283,7 @@
         "shift_method": false,
         "senior_level": true,
         "middle_level": false,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$180/hr",
       "location": "Seattle, WA"
@@ -1306,7 +1306,7 @@
         "shift_method": false,
         "senior_level": false,
         "middle_level": true,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$40/hr",
       "location": "Boston, MA"
@@ -1329,7 +1329,7 @@
         "shift_method": false,
         "senior_level": true,
         "middle_level": false,
-        "junior_level": false
+        "junior_level": true
       },
       "salary": "$120/hr",
       "location": "San Jose, CA"
@@ -3229,7 +3229,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": false,
@@ -3252,7 +3252,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -3597,7 +3597,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
@@ -3620,7 +3620,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": true,
@@ -3643,7 +3643,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -3666,7 +3666,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": false,
@@ -3689,7 +3689,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -3712,7 +3712,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -3735,7 +3735,7 @@
       "description": {
         "part_time": true,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4080,7 +4080,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4103,7 +4103,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": false,
@@ -4126,7 +4126,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4149,7 +4149,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4172,7 +4172,7 @@
       "description": {
         "part_time": true,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4195,7 +4195,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": true,
@@ -4218,7 +4218,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4241,7 +4241,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
@@ -4264,7 +4264,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4287,7 +4287,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": true,
@@ -4310,7 +4310,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4333,7 +4333,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4356,7 +4356,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": false,
@@ -4379,7 +4379,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4402,7 +4402,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
@@ -4425,7 +4425,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4448,7 +4448,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": false,
@@ -4471,7 +4471,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
@@ -4494,7 +4494,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": true,
@@ -4517,7 +4517,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4540,7 +4540,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": false,
@@ -4563,7 +4563,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4586,7 +4586,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4609,7 +4609,7 @@
       "description": {
         "part_time": true,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4632,7 +4632,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": true,
@@ -4655,7 +4655,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4678,7 +4678,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
@@ -4701,7 +4701,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4724,7 +4724,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": true,
@@ -4747,7 +4747,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4770,7 +4770,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4793,7 +4793,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": false,
@@ -4816,7 +4816,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4839,7 +4839,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
@@ -4862,7 +4862,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4885,7 +4885,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": false,
@@ -4908,7 +4908,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
@@ -4931,7 +4931,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": true,
@@ -4954,7 +4954,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -4977,7 +4977,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": false,
@@ -5000,7 +5000,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -5023,7 +5023,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -5046,7 +5046,7 @@
       "description": {
         "part_time": true,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -5069,7 +5069,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": true,
@@ -5092,7 +5092,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -5115,7 +5115,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
@@ -5138,7 +5138,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -5161,7 +5161,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": true,
@@ -5184,7 +5184,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -5207,7 +5207,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -5230,7 +5230,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": false,
         "flexible_schedule": false,
@@ -5253,7 +5253,7 @@
       "description": {
         "part_time": false,
         "full_time": true,
-        "internship": false,
+        "internship": true,
         "work_project": false,
         "full_day": true,
         "flexible_schedule": false,
@@ -5276,7 +5276,7 @@
       "description": {
         "part_time": true,
         "full_time": false,
-        "internship": false,
+        "internship": true,
         "work_project": true,
         "full_day": false,
         "flexible_schedule": true,
