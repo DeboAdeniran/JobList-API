@@ -7,7 +7,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -30,7 +30,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -53,7 +53,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -76,7 +76,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -99,7 +99,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/3yQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -122,7 +122,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/4yQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -145,7 +145,7 @@
       "position": "Hardware Engineer",
       "logo_url": "https://ibb.co/5yQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -168,7 +168,7 @@
       "position": "Content Strategist",
       "logo_url": "https://ibb.co/6yQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -191,7 +191,7 @@
       "position": "Music Curator",
       "logo_url": "https://ibb.co/7yQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -214,7 +214,7 @@
       "position": "Mechanical Engineer",
       "logo_url": "https://ibb.co/8yQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -237,7 +237,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -260,7 +260,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -283,7 +283,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -306,7 +306,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -329,7 +329,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -352,7 +352,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -375,7 +375,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -398,7 +398,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -421,7 +421,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -444,7 +444,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -467,7 +467,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -490,7 +490,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -513,7 +513,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -536,7 +536,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -559,7 +559,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -582,7 +582,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -605,7 +605,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -628,7 +628,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -651,7 +651,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -674,7 +674,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -697,7 +697,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -720,7 +720,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -743,7 +743,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -766,7 +766,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -789,7 +789,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -812,7 +812,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -835,7 +835,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -858,7 +858,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -881,7 +881,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -904,7 +904,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -927,7 +927,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -950,7 +950,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -973,7 +973,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -996,7 +996,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1019,7 +1019,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1042,7 +1042,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -1065,7 +1065,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1088,7 +1088,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1111,7 +1111,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1134,7 +1134,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1157,7 +1157,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1180,7 +1180,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -1203,7 +1203,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1226,7 +1226,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -1249,7 +1249,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1272,7 +1272,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1295,7 +1295,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -1318,7 +1318,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1341,7 +1341,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -1364,7 +1364,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1387,7 +1387,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -1410,7 +1410,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -1433,7 +1433,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1456,7 +1456,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1479,7 +1479,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -1502,7 +1502,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1525,7 +1525,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1548,7 +1548,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1571,7 +1571,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1594,7 +1594,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1617,7 +1617,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -1640,7 +1640,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1663,7 +1663,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -1686,7 +1686,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1709,7 +1709,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1732,7 +1732,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -1755,7 +1755,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1778,7 +1778,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -1801,7 +1801,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1824,7 +1824,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -1847,7 +1847,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -1870,7 +1870,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1893,7 +1893,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1916,7 +1916,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -1939,7 +1939,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1962,7 +1962,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -1985,7 +1985,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2008,7 +2008,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2031,7 +2031,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2054,7 +2054,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -2077,7 +2077,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2100,7 +2100,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -2123,7 +2123,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2146,7 +2146,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2169,7 +2169,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -2192,7 +2192,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2215,7 +2215,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -2238,7 +2238,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2261,7 +2261,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -2284,7 +2284,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -2307,7 +2307,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2330,7 +2330,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2353,7 +2353,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -2376,7 +2376,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2399,7 +2399,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2422,7 +2422,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2445,7 +2445,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2468,7 +2468,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2491,7 +2491,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -2514,7 +2514,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2537,7 +2537,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -2560,7 +2560,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2583,7 +2583,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2606,7 +2606,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -2629,7 +2629,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2652,7 +2652,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -2675,7 +2675,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2698,7 +2698,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -2721,7 +2721,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -2744,7 +2744,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2767,7 +2767,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2790,7 +2790,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -2813,7 +2813,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2836,7 +2836,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2859,7 +2859,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2882,7 +2882,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2905,7 +2905,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2928,7 +2928,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -2951,7 +2951,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -2974,7 +2974,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -2997,7 +2997,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3020,7 +3020,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3043,7 +3043,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -3066,7 +3066,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3089,7 +3089,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -3112,7 +3112,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3135,7 +3135,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -3158,7 +3158,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -3181,7 +3181,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3204,7 +3204,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3227,7 +3227,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -3250,7 +3250,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3273,7 +3273,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3296,7 +3296,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3319,7 +3319,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3342,7 +3342,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3365,7 +3365,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -3388,7 +3388,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3411,7 +3411,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -3434,7 +3434,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3457,7 +3457,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3480,7 +3480,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -3503,7 +3503,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3526,7 +3526,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -3549,7 +3549,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3572,7 +3572,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -3595,7 +3595,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -3618,7 +3618,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3641,7 +3641,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3664,7 +3664,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -3687,7 +3687,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3710,7 +3710,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3733,7 +3733,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3756,7 +3756,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3779,7 +3779,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3802,7 +3802,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -3825,7 +3825,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3848,7 +3848,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -3871,7 +3871,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3894,7 +3894,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3917,7 +3917,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -3940,7 +3940,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -3963,7 +3963,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -3986,7 +3986,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4009,7 +4009,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -4032,7 +4032,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -4055,7 +4055,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4078,7 +4078,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4101,7 +4101,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -4124,7 +4124,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4147,7 +4147,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4170,7 +4170,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4193,7 +4193,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4216,7 +4216,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4239,7 +4239,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -4262,7 +4262,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4285,7 +4285,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -4308,7 +4308,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4331,7 +4331,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4354,7 +4354,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -4377,7 +4377,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4400,7 +4400,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -4423,7 +4423,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4446,7 +4446,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -4469,7 +4469,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -4492,7 +4492,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4515,7 +4515,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4538,7 +4538,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -4561,7 +4561,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4584,7 +4584,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4607,7 +4607,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4630,7 +4630,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4653,7 +4653,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4676,7 +4676,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -4699,7 +4699,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4722,7 +4722,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -4745,7 +4745,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4768,7 +4768,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4791,7 +4791,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -4814,7 +4814,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4837,7 +4837,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -4860,7 +4860,7 @@
       "position": "Warehouse Associate",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4883,7 +4883,7 @@
       "position": "Administrative Assistant",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -4906,7 +4906,7 @@
       "position": "Technical Support Advisor",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -4929,7 +4929,7 @@
       "position": "Travel Consultant",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4952,7 +4952,7 @@
       "position": "Public Relations Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -4975,7 +4975,7 @@
       "position": "Delivery Driver",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -4998,7 +4998,7 @@
       "position": "Art Director",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -5021,7 +5021,7 @@
       "position": "Cloud Engineer",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -5044,7 +5044,7 @@
       "position": "UI/UX Designer",
       "logo_url": "https://ibb.co/KxQx3CM",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -5067,7 +5067,7 @@
       "position": "Social Media Manager",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -5090,7 +5090,7 @@
       "position": "Data Scientist",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -5113,7 +5113,7 @@
       "position": "Graphic Designer",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
@@ -5136,7 +5136,7 @@
       "position": "Retail Specialist",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -5159,7 +5159,7 @@
       "position": "Customer Support Specialist",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -5182,7 +5182,7 @@
       "position": "Marketing Specialist",
       "logo_url": "https://ibb.co/2h9SmV4",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -5205,7 +5205,7 @@
       "position": "Product Manager",
       "logo_url": "https://ibb.co/9yrbDx9",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -5228,7 +5228,7 @@
       "position": "Operations Coordinator",
       "logo_url": "https://ibb.co/L0TQw0k",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": false,
@@ -5251,7 +5251,7 @@
       "position": "Software Engineer",
       "logo_url": "https://ibb.co/bQrqxBB",
       "description": {
-        "part-time": false,
+        "part_time": false,
         "full_time": true,
         "internship": false,
         "work_project": false,
@@ -5274,7 +5274,7 @@
       "position": "Content Creator",
       "logo_url": "https://ibb.co/R0mQdpd",
       "description": {
-        "part-time": true,
+        "part_time": true,
         "full_time": false,
         "internship": false,
         "work_project": true,
